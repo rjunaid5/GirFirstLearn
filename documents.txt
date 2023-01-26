@@ -1,0 +1,5 @@
+// Initialize fit in a projetc by writing init command
+"git init" -> this will create .git folder in the current directory
+
+Check status--> where are we
+"git status" (On branch master,No commits yet)
