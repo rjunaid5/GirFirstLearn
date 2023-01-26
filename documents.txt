@@ -3,3 +3,17 @@
 
 Check status--> where are we
 "git status" (On branch master,No commits yet)
+
+"git add initial-commit.txt" this will make the file enter tracking() area,
+"git add ."  this will make all files enter tracking area
+
+
+git status ->
+"
+changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   documents.txt
+        new file:   initial-commit.txt
+"
+
+"git commit -m "Added two text files"
