@@ -5,7 +5,7 @@ Check status--> where are we
 "git status" (On branch master,No commits yet)
 
 "git add initial-commit.txt" this will make the file enter tracking() area,
-"git add ."  this will make all files enter tracking area
+"git add ."  this will make all files enter tracking/staging area
 
 
 git status ->
@@ -17,3 +17,12 @@ changes to be committed:
 "
 
 "git commit -m "Added two text files"
+
+
+"git branch" checks all the branches
+
+"git branch BranchDev" creates new Branch named BranchDev from Master, it will have the same commit as the master 
+
+"git checkout BranchDev" Switch to BranchDev from Master
+
+"git checkout -b ThirdBranch" create and Switch to new branch
