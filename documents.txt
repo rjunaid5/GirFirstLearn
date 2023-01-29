@@ -26,3 +26,5 @@ changes to be committed:
 "git checkout BranchDev" Switch to BranchDev from Master
 
 "git checkout -b ThirdBranch" create and Switch to new branch
+
+"git merge ThirdBranch" //Merger content from "ThirdBranch" branch into current branch
