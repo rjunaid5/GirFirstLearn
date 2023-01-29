@@ -1,1 +1,5 @@
-docs.log
+basicdocs.log
+advanceddocs.log
+
+*.config
+web-app/
